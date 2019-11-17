@@ -11,7 +11,7 @@ def seg_hms(s):
     s = s%3600
     minutos = s//60
     segundos = s%60
-    return (horas,minutos,segundos)
+    return (horas, minutos, segundos)
 
 
 leyendo = True
