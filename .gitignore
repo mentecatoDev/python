@@ -1,2 +1,5 @@
 UMDC/.vscode/
 *~
+pong/.vscode/settings.json
+pong/Pipfile.lock
+pong/Pipfile

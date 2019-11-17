@@ -1,13 +1,18 @@
-#### Ejercicio 05
-# Escribir un programa que imprima todos los números pares entre dos números que se le pidan al usuario.
+"""
+Ejercicio 05
+
+Escribir un programa que imprima todos los números pares entre dos números que
+se le pidan al usuario.
+"""
+
 
 leyendo = True
 while leyendo:
     try:
         inicial = int(input("Introduzca valor inicial: "))
-        final   = int(input("Introduzca valor final  : "))
+        final = int(input("Introduzca valor final  : "))
         leyendo = False
-    except:
+    except ValueError:
         print("Introduzca solo valores numéricos enteros\n")
 
 # Asegura que se comienza con un número par

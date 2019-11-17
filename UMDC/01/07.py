@@ -1,12 +1,17 @@
-#### Ejercicio 07
-# Escribir un programa que tome una cantidad "m" de valores ingresados por el usuario, a cada uno le calcule el factorial e imprima el resultado junto con el número de orden correspondiente.
+"""
+Ejercicio 07
+
+Escribir un programa que tome una cantidad "m" de valores ingresados por el
+usuario, a cada uno le calcule el factorial e imprima el resultado junto con
+el número de orden correspondiente.
+"""
 
 leyendo = True
 while leyendo:
     try:
         m = int(input("Introduzca número factoriales a calcular: "))
         leyendo = False
-    except:
+    except ValueError:
         print("Introduzca solo valores numéricos enteros\n")
 
 for i in range(1, m+1):
@@ -15,7 +20,7 @@ for i in range(1, m+1):
         try:
             n = int(input("Introduzca un número para calcular su factorial: "))
             leyendo = False
-        except:
+        except ValueError:
             print("Introduzca solo valores numéricos enteros\n")
     factorial = 1
     for j in range(2, n+1):
