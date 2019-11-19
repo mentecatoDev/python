@@ -1,5 +1,6 @@
 """
-Ejercicio 11
+Ejercicio 11a
+
 Escribir una función que reciba dos números como parámetros, y devuelva
 cuántos múltiplos del primero hay, que sean menores que el segundo.
 

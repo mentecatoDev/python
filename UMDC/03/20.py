@@ -1,5 +1,6 @@
 """
 Ejercicio 20
+
 Programa de astrologia: el usuario debe ingresar el dia y mes de su cumpleaños
 y el programa le debe decir a qué signo corresponde.
 

@@ -1,5 +1,3 @@
-from time import sleep
-
 """
 Ejercicio 05
 
@@ -8,6 +6,7 @@ Escribir un programa que contenga una contraseña inventada, que le pregunte
 al usuario la contraseña, y no le permita continuar hasta que la haya
 ingresado correctamente.
 """
+from time import sleep
 
 
 contrasena = "contra"

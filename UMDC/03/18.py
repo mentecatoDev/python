@@ -1,5 +1,6 @@
 """
 Ejercicio 18
+
 Suponiendo que el primer dia del año fue lunes, escribir una función que
 reciba un número con el dia del año(de 1 a 366) y devuelva el dia de la semana
 que le toca. Por ejemplo: si recibe 3 debe devolver miércoles, si recibe 9

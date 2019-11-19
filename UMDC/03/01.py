@@ -1,5 +1,3 @@
-from math import sqrt
-
 """
 Ejercicio 01
 
@@ -7,6 +5,7 @@ Escribir funciones que resuelvan los siguientes problemas:
 
 Dado un número entero n, indicar si es o no par.
 """
+from math import sqrt
 
 
 def par(n):

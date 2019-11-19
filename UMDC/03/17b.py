@@ -1,5 +1,6 @@
 """
 Ejercicio 17b
+
 Escribir funciones que resuelvan los siguientes problemas:
 
 b) Dado un mes, devolver la cantidad de dias correspondientes.

@@ -1,6 +1,6 @@
-"""Ejercicio 17g."""
-
 """
+Ejercicio 17g
+
 Escribir funciones que resuelvan los siguientes problemas:
 
 g) Dadas dos fechas (dia1, mes1, año1, dia2, mes2, año2), indicar el tiempo
