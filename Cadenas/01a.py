@@ -14,4 +14,4 @@ def dos(cad):
 
 
 cad = "En un lugar de la Mancha de cuyo nombre no quiero acordarme"
-dos(cad)
+dos( cad)

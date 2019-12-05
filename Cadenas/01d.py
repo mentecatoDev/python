@@ -12,8 +12,6 @@ Ej.: ¡Hola mundo! debe imprimir !odnum aloH¡
 
 
 def inversa(cad):
-    """ DocString
-    """
     salida = ""
     for i in range(len(cad)-1, -1, -1):
         salida += cad[i]
@@ -21,8 +19,6 @@ def inversa(cad):
 
 
 def inversa_2(cad):
-    """ DocString
-    """
     print(cad[::-1])
 
 

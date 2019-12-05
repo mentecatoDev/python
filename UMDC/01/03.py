@@ -18,5 +18,5 @@ while leyendo:
         print("Introduzca un valor numérico\n")
 
 
-print("La temperatura equivalente en grados Fahrenheit es :",
+print("La temperatura equivalente en grados Celsius es :",
       fahrenheit_celsius(faren))

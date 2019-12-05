@@ -2,9 +2,8 @@
 Ejercicio 05
 
 Escribir un programa que imprima todos los números pares entre dos números que
-se le pidan al usuario.
+se le pidan al usuario
 """
-
 
 leyendo = True
 while leyendo:

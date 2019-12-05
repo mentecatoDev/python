@@ -45,7 +45,7 @@ for i in range(1, n+1):
 print("Ya")
 
 for i in range(1, n+1):
-    print(i, "  -  ", triangular_calculado(i))
+    #print(i, "  -  ", triangular_calculado(i))
     triangular_calculado(i)
 
 print("Otro ya")

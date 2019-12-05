@@ -5,7 +5,7 @@ Escribir funciones que dada una cadena de caracteres:
 
 cad = "En un lugar de la Mancha de cuyo nombre no quiero acordarme"
 
-b) Imprima los tres últimos caracteres.
+c) Imprima dicha cadena cada dos caracteres. Ej.: "recta" debería imprimir "rca"
 """
 
 

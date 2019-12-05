@@ -15,7 +15,7 @@ def puntos(cad):
     numero_puntos = len(cad)//3
     for veces in range(numero_puntos):
         for trio in range(3):
-            salida += cad[veces*3+trio]
+            salida += cad[veces*3 + trio]
         salida += "."
     salida += cad[numero_puntos*3:]
     if salida[-1] == ".":
