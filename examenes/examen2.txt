@@ -1,0 +1,54 @@
+En esta ocasión debes escribir un programa Python que expanda el siguiente:
+
+import urllib.request, urllib.parse, urllib.error
+from bs4 import BeautifulSoup
+import ssl
+
+# Ignore SSL certificate errors
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+
+url = input('Enter - ')
+html = urllib.request.urlopen(url, context=ctx).read()
+soup = BeautifulSoup(html, 'html.parser')
+
+# Retrieve all of the anchor tags
+tags = soup('a')
+for tag in tags:
+    print(tag.get('href', None))
+
+
+El programa usará `urllib` para leer el HTML de los archivos de datos que se indican abajo, extraerá el href= values de las etiquetas <a>, buscará una etiqueta que esté en una posición particular relativa al primer nombre de la lista, seguirá ese enlace y repetirá el proceso un número de veces e informará del apellido que encuentre.
+
+Proporcionamos dos archivos para esta la prueba. Uno es un archivo de muestra donde damos el nombre para comprobar y el otro son los datos reales que se necesitan procesar para la asignación
+
+- Problema de muestra: Comenzar en http://python-data.dr-chuck.net/known_by_Fikret.html
+Encontrar el enlace en la posición 3 (el primer nombre es 1). Seguir ese enlace. Repetir este proceso 4 veces. La respuesta es el apellido que recuperes.
+Secuencia de nombres: Fikret Montgomery Mhairade Butchi Anayah 
+Apellido en secuencia: Anayah
+
+- Problema real: Comenzar en: http://python-data.dr-chuck.net/known_by_Melville.html
+Encontrar el enlace en la posición 18 (el primer nombre es 1). Seguir ese enlace. Repetir el proceso 7 veces. La respuesta es el apellido que recuperes.
+
+Sugerencia: El primer carácter del nombre de la última página que cargarás es una mayúscula
+
+Estrategia
+
+Las páginas web ajustan la altura entre los enlaces y ocultan la página después de unos segundos para dificultar la tarea a menos que se escriba un programa Python. Pero francamente con un poco de esfuerzo y paciencia se puede superar esta barrera y hacer TRAMPAS. Pero eso no es lo que se espera de tí. El punto es escribir un programa Python inteligente que resuelva el problema.
+
+Ejemplo de ejecución
+
+Aquí está una muestra de ejecución de una solución:
+
+$ python solution.py
+Ingresar URL: http://python-data.dr-chuck.net/known_by_Fikret.html
+Entrar el número de veces: 4
+Entrar la posición inicial: 3
+Recuperando: http://python-data.dr-chuck.net/known_by_Fikret.html
+Recuperando: http://python-data.dr-chuck.net/known_by_Montgomery.html
+Recuperando: http://python-data.dr-chuck.net/known_by_Mhairade.html
+Recuperando: http://python-data.dr-chuck.net/known_by_Butchi.html
+Recuperando: http://python-data.dr-chuck.net/known_by_Anayah.html
+
+La respuesta al encargo de esta ejecución es "Anayah".

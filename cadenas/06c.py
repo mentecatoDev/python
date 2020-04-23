@@ -4,7 +4,16 @@ Ejercicio 6c
 Escribir funciones que dada una cadena de caracteres:
 
 c) Reemplace cada vocal por su siguiente vocal. Por ejemplo, si recibe
-vestuario debe devolver vistaerou.
+'vestuario' debe devolver 'vistaerou'.
+
+
+### TESTS
+
+>>> revocaliza('vestuario')
+'vistaerou'
+
+>>> revocaliza('vestUariO')
+'vistAeroU'
 """
 
 
@@ -19,4 +28,6 @@ def revocaliza(cad):
     return revoca
 
 
-print(revocaliza("vestUariO"))
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()

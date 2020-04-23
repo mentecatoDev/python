@@ -5,6 +5,22 @@ Escribir funciones que dada una cadena y un carácter:
 
 b) Reemplace todos los espacios por el carácter. Ej: mi archivo de texto.txt y
 _ debería devolver mi_archivo_de_texto.txt
+
+### TESTS
+
+>>> cad = 'En un lugar de la Mancha'
+>>> cambiar(cad, "_")
+'En_un_lugar_de_la_Mancha'
+
+>>> cambiar2(cad, "_", 0)
+'En un lugar de la Mancha'
+
+>>> cambiar2(cad, "_", 100)
+'En_un_lugar_de_la_Mancha'
+
+>>> cambiar2(cad, "_", 2)
+'En_un_lugar de la Mancha'
+
 """
 
 
@@ -36,8 +52,6 @@ def cambiar2(cad, car, rmax):
     return salida
 
 
-cad = "En un lugar de la Mancha de cuyo nombre no quiero acordarme"
-print(cambiar(cad, "_"))
-print(cambiar2(cad, "_", 0))
-print(cambiar2(cad, "_", 100))
-print(cambiar2(cad, "_", 2))
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()

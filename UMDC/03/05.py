@@ -8,7 +8,7 @@ ingresado correctamente.
 """
 from time import sleep
 
-
+"""
 contrasena = "contra"
 while True:
     con = input("Contraseña : ")
@@ -18,10 +18,10 @@ while True:
     else:
         print("Contraseña errónea")
 
-"""
+
 Modificar el programa anterior para que solamente permita una cantidad fija de
 intentos.
-"""
+
 
 
 contrasena = "contra"
@@ -35,13 +35,13 @@ while intentos:
         print("Contraseña errónea")
         intentos -= 1
 
-"""
+
 Modificar el programa anterior para que después de cada intento agregue una
 pausa cada vez mayor, utilizando la función sleep del módulo time.
 """
 
 contrasena = "contra"
-maxIntentos = 3
+maxIntentos = 5
 intentos = maxIntentos
 while intentos != 0:
     con = input("Contraseña : ")
@@ -53,6 +53,7 @@ while intentos != 0:
         intentos -= 1
         if intentos > 0:
             sleep(10-int(10/maxIntentos*intentos))
+            print(10-int(10/maxIntentos*intentos))
 
 """
 Modificar el programa anterior para que sea una función que devuelva si

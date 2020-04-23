@@ -5,6 +5,17 @@ Escribir funciones que dada una cadena y un carácter:
 
 c) Reemplace todos los dígitos en la cadena por el carácter "X".
 Ej: su clave es: 1540 y X debería devolver su clave es: XXXX
+
+### TESTS
+
+>>> cambiar_x("su clave es: 1540")
+'su clave es: XXXX'
+>>> cambiar_x2("su clave es: 1540", 0)
+'su clave es: 1540'
+>>> cambiar_x2("su clave es: 1540", 2)
+'su clave es: XX40'
+>>> cambiar_x2("su clave es: 1540", 10)
+'su clave es: XXXX'
 """
 
 
@@ -37,7 +48,6 @@ def cambiar_x2(cad, rmax):
     return salida
 
 
-print(cambiar_x("su clave es: 1540"))
-print(cambiar_x2("su clave es: 1540", 0))
-print(cambiar_x2("su clave es: 1540", 2))
-print(cambiar_x2("su clave es: 1540", 10))
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()

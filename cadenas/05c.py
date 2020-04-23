@@ -5,6 +5,11 @@ Escribir una función que dada una cadena de caracteres, devuelva:
 
 c) Las palabras que comiencen con la letra A. Por ejemplo, si recibe "Antes de
 ayer" debe devolver "Antes ayer".
+
+### TESTS
+
+>>> aes("    Antes de  fdfff      Antonio    ayer     ")
+'Antes Antonio ayer'
 """
 
 
@@ -22,4 +27,6 @@ def aes(cad):
     return sig[:-1]
 
 
-print(aes("    Antes de  fdfff      Antonio    ayer     "))
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
