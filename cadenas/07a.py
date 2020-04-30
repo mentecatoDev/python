@@ -7,12 +7,16 @@ a) Indique si la segunda cadena es una subcadena de la primera. Por ejemplo,
 "cadena" es una subcadena de "subcadena".
 
 ### TESTS
+
 >>> subcadena("subcadena", "cadena")
 True
+
 >>> subcadena("subcalena", "cadena")
 False
+
 >>> subcadena_2("subcadena", "cadena")
 True
+
 >>> subcadena_2("subcalena", "cadena")
 False
 

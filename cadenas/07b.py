@@ -11,6 +11,8 @@ b) Devuelva la que sea anterior en orden alfábetico. Por ejemplo, si recibe
 >>> alfa("kde", "gnome")
 'gnome'
 
+>>> alfa('Sole', 'Fran')
+'Fran'
 """
 
 

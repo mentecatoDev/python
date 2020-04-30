@@ -30,8 +30,8 @@ devolver s,e,p,a,r,a,r
 def separar(cad):
     salida = ""
     for letra in cad:
-        salida = salida + letra + ","
-    return salida[:len(salida)-1]
+        salida += letra + ","
+    return salida[:-1]
 
 
 def separar2(cad, rmax):

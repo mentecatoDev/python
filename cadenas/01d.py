@@ -7,7 +7,7 @@ cad = "En un lugar de la Mancha de cuyo nombre no quiero acordarme"
 
 d) Retorne dicha cadena en sentido inverso.
 
-Ej.: ¡Hola mundo! debe imprimir !odnum aloH¡
+Ej.: '¡Hola mundo!' debe imprimir '!odnum aloH¡'
 
 ### TESTS
 

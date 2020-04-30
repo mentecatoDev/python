@@ -12,6 +12,9 @@ b) Imprima los tres últimos caracteres.
 >>> cad = 'En un lugar de la Mancha de cuyo nombre no quiero acordarme'
 >>> tres(cad)
 'rme'
+
+>>> tres('Rosa ha vuelto de la oscuridad')
+'dad'
 """
 
 

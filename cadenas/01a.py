@@ -10,6 +10,9 @@ a) Retorne los dos primeros caracteres.
 >>> cad = 'En un lugar de la Mancha de cuyo nombre no quiero acordarme'
 >>> dos(cad)
 'En'
+
+>>> dos('Esta es una cadena')
+'Es'
 """
 
 

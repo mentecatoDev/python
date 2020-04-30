@@ -12,8 +12,10 @@ c) Retorne dicha cadena cada dos caracteres. Ej.: "recta" imprime "rca"
 >>> cad = 'En un lugar de la Mancha de cuyo nombre no quiero acordarme'
 >>> cada_dos(cad)
 'E nlgrd aMnh ecy oben ueoaodre'
+
 >>> cada_dos("recta")
 'rca'
+
 >>> cada_dos_2(cad)
 'E nlgrd aMnh ecy oben ueoaodre'
 """

@@ -9,10 +9,13 @@ palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda).
 
 >>> palindromo('el bar es iman o zona miserable')
 True
+
 >>> palindromo('anytalava la tina')
 False
+
 >>> palindromo_2('antalava la tina')
 False
+
 >>> palindromo_2('anita la gorda lagartona no traga la droga latina')
 True
 """
@@ -34,6 +37,7 @@ def palindromo_2(cad):
         if car != " ":
             cad_limpia += car
     return cad_limpia == cad_limpia[::-1]
+
 
 if __name__ == '__main__':
     import doctest

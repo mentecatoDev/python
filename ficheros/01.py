@@ -1,18 +1,57 @@
 """
 Ejercicio 01
 
-Escribe un programa que solicite un nombre de fichero, lo abra, lea y
-visualice el contenido en mayúsculas. Usa el fichero words.txt para crear la
-salida que se busca.
+Escribe una función que reciba un nombre de fichero, lo abra, lea y
+visualice el contenido en mayúsculas. Usar el fichero "words.txt" para crear la
+salida que se busca y el fichero "test.txt" para hacer los tests.
+
+>>> file_cap('test.txt')
+'ESTO ESTÁ EN MAYÚSCULAS\\n\
+Y ESTO TAMBIÉN'
+
+>>> file_cap('Este fichero no existe')
+-1
+
+>>> file_cap('words.txt')
+'WRITING PROGRAMS OR PROGRAMMING IS A VERY CREATIVE\\n\
+AND REWARDING ACTIVITY  YOU CAN WRITE PROGRAMS FOR\\n\
+MANY REASONS RANGING FROM MAKING YOUR LIVING TO SOLVING\\n\
+A DIFFICULT DATA ANALYSIS PROBLEM TO HAVING FUN TO HELPING\\n\
+SOMEONE ELSE SOLVE A PROBLEM  THIS BOOK ASSUMES THAT\\n\
+{\\EM EVERYONE} NEEDS TO KNOW HOW TO PROGRAM AND THAT ONCE\\n\
+YOU KNOW HOW TO PROGRAM, YOU WILL FIGURE OUT WHAT YOU WANT\\n\
+TO DO WITH YOUR NEWFOUND SKILLS\\n\
+\\n\
+WE ARE SURROUNDED IN OUR DAILY LIVES WITH COMPUTERS RANGING\\n\
+FROM LAPTOPS TO CELL PHONES  WE CAN THINK OF THESE COMPUTERS\\n\
+AS OUR PERSONAL ASSISTANTS WHO CAN TAKE CARE OF MANY THINGS\\n\
+ON OUR BEHALF  THE HARDWARE IN OUR CURRENT-DAY COMPUTERS\\n\
+IS ESSENTIALLY BUILT TO CONTINUOUSLY ASK US THE QUESTION\\n\
+WHAT WOULD YOU LIKE ME TO DO NEXT\\n\
+\\n\
+OUR COMPUTERS ARE FAST AND HAVE VASTS AMOUNTS OF MEMORY AND \\n\
+COULD BE VERY HELPFUL TO US IF WE ONLY KNEW THE LANGUAGE TO \\n\
+SPEAK TO EXPLAIN TO THE COMPUTER WHAT WE WOULD LIKE IT TO \\n\
+DO NEXT IF WE KNEW THIS LANGUAGE WE COULD TELL THE \\n\
+COMPUTER TO DO TASKS ON OUR BEHALF THAT WERE REPTITIVE  \\n\
+INTERESTINGLY, THE KINDS OF THINGS COMPUTERS CAN DO BEST\\n\
+ARE OFTEN THE KINDS OF THINGS THAT WE HUMANS FIND BORING\\n\
+AND MIND-NUMBING\\n\'
+
 """
 
-leyendo = True
-while leyendo:
+
+def file_cap(file_name):
     try:
-        fichero = input("Nombre de fichero :")
-        manejador = open(fichero)
-        leyendo = False
+        file_handle = open(file_name)
     except IOError:
-        print("El fichero no existe")
-for linea in manejador:
-    print(linea.upper(), end="")
+        return -1
+    text = ''
+    for line in file_handle:
+        text += line.upper()
+    return text
+
+
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
