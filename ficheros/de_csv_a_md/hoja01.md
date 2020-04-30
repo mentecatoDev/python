@@ -9,7 +9,7 @@ Redes
 Cisco Netacad
 ## Comentario
 Contenidos muy muy básicos.
-## Alumnos haciendo
+## Alumnos Inscritos
 
 # Cibersecurity Introduction
 ## Propone
@@ -22,7 +22,7 @@ Redes
 Cisco Netacad
 ## Comentario
 Es básicamente la asignatura mía de SAD pero mucho más teórica, obviamente. A destacar los nombres de algunos capítulos:
-## Alumnos haciendo
+## Alumnos Inscritos
 # Sales Force
 ## Propone
 Ango
@@ -34,7 +34,7 @@ Programacion - Java
 https://trailhead.salesforce.com/es-MX/home
 ## Comentario
 
-## Alumnos haciendo
+## Alumnos Inscritos
 
 # recursos para iniciarse en el mundo de los CTF
 ## Propone
@@ -47,7 +47,7 @@ Redes - Seguridad
 https://www.flu-project.com/2019/11/7-recursos-para-iniciarse-en-CTFs.html?m=1
 ## Comentario
 
-## Alumnos haciendo
+## Alumnos Inscritos
 
 # CCNA 3: Scaling Networks
 ## Propone
@@ -60,7 +60,7 @@ Redes
 Cisco Netacad
 ## Comentario
 
-## Alumnos haciendo
+## Alumnos Inscritos
 
 # CCNA 4: Connecting Networks
 ## Propone
@@ -73,7 +73,7 @@ Redes
 Cisco Netacad
 ## Comentario
 
-## Alumnos haciendo
+## Alumnos Inscritos
 
 # Curso de fundamentos de redes para Certificación MTA
 ## Propone
@@ -86,7 +86,7 @@ Redes
 https://openwebinars.net/cursos/fundamentos-redes-mta/
 ## Comentario
 Es un poco repaso de las redes de 1º, pero viendo lo tiesos que van esta gente en redes, no les viene mal repasarlas a más de uno
-## Alumnos haciendo
+## Alumnos Inscritos
 Manuel Carrión
 # Curso de Iptables
 ## Propone
@@ -99,7 +99,7 @@ Seguridad
 https://openwebinars.net/cursos/iptables/
 ## Comentario
 Lo mismo con los firewalls que dan en SAD. Pero no les viene nada mal repasar.
-## Alumnos haciendo
+## Alumnos Inscritos
 Manuel Carrión
 # Curso de Servidores Web
 ## Propone
@@ -112,7 +112,7 @@ Servicios de Red
 https://openwebinars.net/cursos/servidores-web/
 ## Comentario
 De nuevo, esto se ve en SRI, pero este curso sí que tiene unas cuantas cosas que yo no doy, como un poquito de Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP)
-## Alumnos haciendo
+## Alumnos Inscritos
 Manuel Carrión
 # Curso de Introducción a Docker
 ## Propone
@@ -125,7 +125,7 @@ Virtualización
 https://openwebinars.net/academia/portada/docker-introduccion/
 ## Comentario
 Estos dos cursos de Docker son parte de una cosa que en OpenWebminars llaman Carreras, que son lotes de cursos relacionados. Ésta en particular se llama Docker DevOps Profesional. Jaime me comenta que en Cibernéticos les gustó ver este curso en su CV.
-## Alumnos haciendo
+## Alumnos Inscritos
 Jaime Barea
 # Curso de Docker para Desarrolladores
 ## Propone
@@ -138,7 +138,7 @@ Virtualización
 https://openwebinars.net/academia/portada/docker/
 ## Comentario
 Incluido en Docker DevOps Profesional
-## Alumnos haciendo
+## Alumnos Inscritos
 Jaime Barea
 # Fundamentos Generales: Orquestación y Automatizacion IT
 ## Propone
@@ -151,7 +151,7 @@ Virtualización/Cloud
 https://openwebinars.net/academia/portada/fundamentos-generales-orquestacion-automatizacion-it/
 ## Comentario
 Este curso y los que vienen a continuación son parte de la carrera de Especialista en Automatización DevOps, que va de temas de Virtualización en Cloud
-## Alumnos haciendo
+## Alumnos Inscritos
 Jaime Barea
 # Curso de Ansible
 ## Propone
@@ -164,7 +164,7 @@ Virtualización/Cloud
 https://openwebinars.net/academia/portada/ansible/
 ## Comentario
 Incluido en Especialista en Automatización DevOps
-## Alumnos haciendo
+## Alumnos Inscritos
 Jaime Barea
 # SSH: imprescindible en tiempos modernos
 ## Propone
@@ -177,7 +177,7 @@ Servicios de Red
 https://openwebinars.net/cursos/ssh/
 ## Comentario
 Quizás algo básico, pero no es algo que les venga mal repasar. Incluido en Especialista en Automatización DevOps. Impartido por Alberto Molina.
-## Alumnos haciendo
+## Alumnos Inscritos
 Jaime Barea
 # Curso Online de Vagrant 
 ## Propone
@@ -190,7 +190,7 @@ Vagrant
 https://openwebinars.net/academia/portada/vagrant/
 ## Comentario
 Lo da Alberto Molina. Incluido en Especialista en Automatización DevOps
-## Alumnos haciendo
+## Alumnos Inscritos
 Jaime Barea
 # Curso de Vagrant para desarrolladores 
 ## Propone
@@ -203,7 +203,7 @@ Vagrant
 https://openwebinars.net/academia/portada/curso-vagrant-desarrolladores/
 ## Comentario
 Incluido en Especialista en Automatización DevOps
-## Alumnos haciendo
+## Alumnos Inscritos
 Jaime Barea
 # Curso de Terraform
 ## Propone
@@ -216,7 +216,7 @@ Virtualización/Cloud
 https://openwebinars.net/academia/portada/terraform/
 ## Comentario
 Incluido en Especialista en Automatización DevOps
-## Alumnos haciendo
+## Alumnos Inscritos
 Jaime Barea
 # Curso de Introducción a Amazon Web Services (AWS)
 ## Propone
@@ -229,7 +229,7 @@ Virtualización/Cloud
 https://openwebinars.net/academia/portada/aws/
 ## Comentario
 Parece muy interesante. AWS domina completamente el mercado del sector.
-## Alumnos haciendo
+## Alumnos Inscritos
 Ricardo Herrer
 # Curso de VMware vSphere para principiantes
 ## Propone
@@ -242,7 +242,7 @@ Virtualización/Cloud
 https://openwebinars.net/academia/portada/vmware-vsphere/
 ## Comentario
 Se enseña primero el supervisor ESXi y luego ya se pasa al sistema gordo de vSphere. Se le ha dado una cuenta de VMware Academy para que se baje el software necesario para el curso.
-## Alumnos haciendo
+## Alumnos Inscritos
 Ricardo Herrer
 # Curso de Python 3 desde cero
 ## Propone
@@ -255,7 +255,7 @@ Programación-Python
 https://openwebinars.net/academia/portada/python-desde-cero/
 ## Comentario
 Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo veo mal aunque sea para ASIR2.
-## Alumnos haciendo
+## Alumnos Inscritos
 Samuel Luna
 # Curso de Metasploit Framework
 ## Propone
@@ -268,7 +268,7 @@ Seguridad
 https://openwebinars.net/academia/portada/metasploit/
 ## Comentario
 Metasploit, el framework de los hackers vagos que no quieren pringarse las manos ni estudiar para ser hackers. Ideal para nuestros alumnos.
-## Alumnos haciendo
+## Alumnos Inscritos
 Samuel Luna
 # Curso de Seguridad en Redes con Snort
 ## Propone
@@ -281,7 +281,7 @@ Seguridad
 https://openwebinars.net/academia/portada/seguridad-redes-snort/
 ## Comentario
 SNORT es un sistema de monitorización en red. En el temario de SAD viene, yo no le hago mucho caso. Está bien que lo vean por su cuenta los alumnos.
-## Alumnos haciendo
+## Alumnos Inscritos
 Samuel Luna
 # Curso de Hacking Web
 ## Propone
@@ -294,11 +294,11 @@ Seguridad
 https://openwebinars.net/academia/portada/hacking-web/
 ## Comentario
 Aquí se enseña inyección SQL mayormente, que suele ser el principal agujero por donde entrar. Samuel quería ir a la división informática de la Guardia Civil, así que le vienen bien todos los cursos que ha cogido de seguridad.
-## Alumnos haciendo
+## Alumnos Inscritos
 Samuel Luna
 # Curso de Git
 ## Propone
-Paco
+Paco Ávila
 ## Temática
 Programación
 ## Horas
@@ -307,11 +307,11 @@ Programación
 https://openwebinars.net/academia/portada/git/
 ## Comentario
 Fundamental, te dediques a lo que te dediques
-## Alumnos haciendo
+## Alumnos Inscritos
 Juan Luis
 # Curso de Gitflow Profesional
 ## Propone
-Paco
+Paco Ávila
 ## Temática
 Programación
 ## Horas
@@ -320,11 +320,11 @@ Programación
 https://openwebinars.net/academia/portada/gitflow/
 ## Comentario
 Cuando se pasa a formar parte de un equipo de programación es necesario tener unas pautas en cuanto a ramas, versiones, flujo de trabajo, etc usando un sistema de gestión de versiones como GIT.
-## Alumnos haciendo
+## Alumnos Inscritos
 Juan Luis
 # Curso de Raspberry Pi para desarrolladores
 ## Propone
-Paco
+Paco Ávila
 ## Temática
 Sistemas/Programación
 ## Horas
@@ -333,5 +333,5 @@ Sistemas/Programación
 https://openwebinars.net/academia/portada/raspberry-pi-desarrolladores/
 ## Comentario
 Muy especializado y dedicado explícitemente al desarrollo. Se precisa conocer tecnologías de desarrollo donde aplicar la Raspberry PI.
-## Alumnos haciendo
+## Alumnos Inscritos
 Juan Luis

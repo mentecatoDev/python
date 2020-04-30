@@ -1,4 +1,4 @@
-Ciclo,Propone,Temática,Título,Horas,Enlace,Comentario,Alumnos haciendo
+Ciclo,Propone,Temática,Título,Horas,Enlace,Comentario,Alumnos Inscritos
 ASIR,Ango,Redes,Cibersecurity Essentials,50,Cisco Netacad,Contenidos muy muy básicos.,
 ASIR,Ango,Redes,Cibersecurity Introduction,50,Cisco Netacad,"Es básicamente la asignatura mía de SAD pero mucho más teórica, obviamente. A destacar los nombres de algunos capítulos:
 Capítulo 1: La ciberseguridad - Un mundo de hechiceros, héroes y criminales.
@@ -35,6 +35,6 @@ ASIR,Luis,Programación-Python,Curso de Python 3 desde cero,30,https://openwebin
 ASIR,Luis,Seguridad,Curso de Metasploit Framework,20,https://openwebinars.net/academia/portada/metasploit/,"Metasploit, el framework de los hackers vagos que no quieren pringarse las manos ni estudiar para ser hackers. Ideal para nuestros alumnos.",Samuel Luna
 ASIR,Luis,Seguridad,Curso de Seguridad en Redes con Snort,15,https://openwebinars.net/academia/portada/seguridad-redes-snort/,"SNORT es un sistema de monitorización en red. En el temario de SAD viene, yo no le hago mucho caso. Está bien que lo vean por su cuenta los alumnos.",Samuel Luna
 ASIR,Luis,Seguridad,Curso de Hacking Web,15,https://openwebinars.net/academia/portada/hacking-web/,"Aquí se enseña inyección SQL mayormente, que suele ser el principal agujero por donde entrar. Samuel quería ir a la división informática de la Guardia Civil, así que le vienen bien todos los cursos que ha cogido de seguridad.",Samuel Luna
-DAW/ASIR,Paco,Programación,Curso de Git,15,https://openwebinars.net/academia/portada/git/,"Fundamental, te dediques a lo que te dediques",Juan Luis
-DAW/ASIR,Paco,Programación,Curso de Gitflow Profesional,5,https://openwebinars.net/academia/portada/gitflow/,"Cuando se pasa a formar parte de un equipo de programación es necesario tener unas pautas en cuanto a ramas, versiones, flujo de trabajo, etc usando un sistema de gestión de versiones como GIT.",Juan Luis
-DAW/ASIR,Paco,Sistemas/Programación,Curso de Raspberry Pi para desarrolladores,20,https://openwebinars.net/academia/portada/raspberry-pi-desarrolladores/,Muy especializado y dedicado explícitemente al desarrollo. Se precisa conocer tecnologías de desarrollo donde aplicar la Raspberry PI.,Juan Luis
+DAW/ASIR,Paco Ávila,Programación,Curso de Git,15,https://openwebinars.net/academia/portada/git/,"Fundamental, te dediques a lo que te dediques",Juan Luis
+DAW/ASIR,Paco Ávila,Programación,Curso de Gitflow Profesional,5,https://openwebinars.net/academia/portada/gitflow/,"Cuando se pasa a formar parte de un equipo de programación es necesario tener unas pautas en cuanto a ramas, versiones, flujo de trabajo, etc usando un sistema de gestión de versiones como GIT.",Juan Luis
+DAW/ASIR,Paco Ávila,Sistemas/Programación,Curso de Raspberry Pi para desarrolladores,20,https://openwebinars.net/academia/portada/raspberry-pi-desarrolladores/,Muy especializado y dedicado explícitemente al desarrollo. Se precisa conocer tecnologías de desarrollo donde aplicar la Raspberry PI.,Juan Luis
