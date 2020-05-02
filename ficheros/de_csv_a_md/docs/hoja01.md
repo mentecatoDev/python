@@ -1,16 +1,22 @@
 
-## Cibersecurity Essentials
+## Angular y Spring 5 (udemy)
 **Propone:** Ango
 
-**Temática:** Redes
+**Temática:** DAW
 
-**Horas:** 50
+**Horas:** 115
 
-**Enlace:** [Cisco Netacad](Cisco Netacad)
+**Enlace:** [https://www.udemy.com/course/angular-spring/](https://www.udemy.com/course/angular-spring/)
 
-**Comentario:** Contenidos muy muy básicos.
+**Comentario:** 
+
+De pago, lo propone Lucía
+
+
 
 **Alumnos Inscritos:** 
+
+Lucía
 
 
 ## Cibersecurity Introduction
@@ -22,35 +28,25 @@
 
 **Enlace:** [Cisco Netacad](Cisco Netacad)
 
-**Comentario:** Es básicamente la asignatura mía de SAD pero mucho más teórica, obviamente. A destacar los nombres de algunos capítulos:
-
-**Alumnos Inscritos:** 
-## Sales Force
-**Propone:** Ango
-
-**Temática:** Programacion - Java
-
-**Horas:** 
-
-**Enlace:** [https://trailhead.salesforce.com/es-MX/home](https://trailhead.salesforce.com/es-MX/home)
-
 **Comentario:** 
 
+Es básicamente la asignatura mía de SAD pero mucho más teórica, obviamente. A destacar los nombres de algunos capítulos:
+
+Capítulo 1: La ciberseguridad - Un mundo de hechiceros, héroes y criminales.
+
+Capítulo 6: El universo de los cinco nueves
+
+Capítulo 7: Protección del reino
+
+Capítulo 8: Uniéndose al orden de los héroes cibernéticos
+
+Me troncho y me mondo.
+
+
+
 **Alumnos Inscritos:** 
 
 
-## recursos para iniciarse en el mundo de los CTF
-**Propone:** Ango
-
-**Temática:** Redes - Seguridad
-
-**Horas:** 
-
-**Enlace:** [https://www.flu-project.com/2019/11/7-recursos-para-iniciarse-en-CTFs.html?m=1](https://www.flu-project.com/2019/11/7-recursos-para-iniciarse-en-CTFs.html?m=1)
-
-**Comentario:** 
-
-**Alumnos Inscritos:** 
 
 
 ## CCNA 3: Scaling Networks
@@ -64,21 +60,13 @@
 
 **Comentario:** 
 
+
+
+
+
 **Alumnos Inscritos:** 
 
 
-## CCNA 4: Connecting Networks
-**Propone:** Ango
-
-**Temática:** Redes
-
-**Horas:** 100
-
-**Enlace:** [Cisco Netacad](Cisco Netacad)
-
-**Comentario:** 
-
-**Alumnos Inscritos:** 
 
 
 ## Curso de fundamentos de redes para Certificación MTA
@@ -90,9 +78,17 @@
 
 **Enlace:** [https://openwebinars.net/cursos/fundamentos-redes-mta/](https://openwebinars.net/cursos/fundamentos-redes-mta/)
 
-**Comentario:** Es un poco repaso de las redes de 1º, pero viendo lo tiesos que van esta gente en redes, no les viene mal repasarlas a más de uno
+**Comentario:** 
 
-**Alumnos Inscritos:** Manuel Carrión
+Es un poco repaso de las redes de 1º, pero viendo lo tiesos que van esta gente en redes, no les viene mal repasarlas a más de uno
+
+
+
+**Alumnos Inscritos:** 
+
+Manuel Carrión
+
+Samuel Luna
 
 
 ## Curso de Iptables
@@ -104,9 +100,15 @@
 
 **Enlace:** [https://openwebinars.net/cursos/iptables/](https://openwebinars.net/cursos/iptables/)
 
-**Comentario:** Lo mismo con los firewalls que dan en SAD. Pero no les viene nada mal repasar.
+**Comentario:** 
 
-**Alumnos Inscritos:** Manuel Carrión
+Lo mismo con los firewalls que dan en SAD. Pero no les viene nada mal repasar.
+
+
+
+**Alumnos Inscritos:** 
+
+Manuel Carrión
 
 
 ## Curso de Servidores Web
@@ -118,9 +120,17 @@
 
 **Enlace:** [https://openwebinars.net/cursos/servidores-web/](https://openwebinars.net/cursos/servidores-web/)
 
-**Comentario:** De nuevo, esto se ve en SRI, pero este curso sí que tiene unas cuantas cosas que yo no doy, como un poquito de Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP)
+**Comentario:** 
 
-**Alumnos Inscritos:** Manuel Carrión
+De nuevo, esto se ve en SRI, pero este curso sí que tiene unas cuantas cosas que yo no doy, como un poquito de Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP)
+
+
+
+**Alumnos Inscritos:** 
+
+Manuel Carrión
+
+Pablo G. Campanario
 
 
 ## Curso de Introducción a Docker
@@ -132,9 +142,19 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/docker-introduccion/](https://openwebinars.net/academia/portada/docker-introduccion/)
 
-**Comentario:** Estos dos cursos de Docker son parte de una cosa que en OpenWebminars llaman Carreras, que son lotes de cursos relacionados. Ésta en particular se llama Docker DevOps Profesional. Jaime me comenta que en Cibernéticos les gustó ver este curso en su CV.
+**Comentario:** 
 
-**Alumnos Inscritos:** Jaime Barea
+Estos dos cursos de Docker son parte de una cosa que en OpenWebminars llaman "Carreras", que son lotes de cursos relacionados. Ésta en particular se llama "Docker DevOps Profesional". Jaime me comenta que en Cibernéticos les gustó ver este curso en su CV.
+
+
+
+**Alumnos Inscritos:** 
+
+Jaime Barea
+
+Samuel Luna
+
+Pablo G. Campanario
 
 
 ## Curso de Docker para Desarrolladores
@@ -146,9 +166,17 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/docker/](https://openwebinars.net/academia/portada/docker/)
 
-**Comentario:** Incluido en Docker DevOps Profesional
+**Comentario:** 
 
-**Alumnos Inscritos:** Jaime Barea
+Incluido en "Docker DevOps Profesional"
+
+
+
+**Alumnos Inscritos:** 
+
+Jaime Barea
+
+Samuel Luna
 
 
 ## Fundamentos Generales: Orquestación y Automatizacion IT
@@ -160,9 +188,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/fundamentos-generales-orquestacion-automatizacion-it/](https://openwebinars.net/academia/portada/fundamentos-generales-orquestacion-automatizacion-it/)
 
-**Comentario:** Este curso y los que vienen a continuación son parte de la carrera de Especialista en Automatización DevOps, que va de temas de Virtualización en Cloud
+**Comentario:** 
 
-**Alumnos Inscritos:** Jaime Barea
+Este curso y los que vienen a continuación son parte de la carrera de "Especialista en Automatización DevOps", que va de temas de Virtualización en Cloud
+
+
+
+**Alumnos Inscritos:** 
+
+Jaime Barea
 
 
 ## Curso de Ansible
@@ -174,9 +208,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/ansible/](https://openwebinars.net/academia/portada/ansible/)
 
-**Comentario:** Incluido en Especialista en Automatización DevOps
+**Comentario:** 
 
-**Alumnos Inscritos:** Jaime Barea
+Incluido en "Especialista en Automatización DevOps"
+
+
+
+**Alumnos Inscritos:** 
+
+Jaime Barea
 
 
 ## SSH: imprescindible en tiempos modernos
@@ -188,9 +228,21 @@
 
 **Enlace:** [https://openwebinars.net/cursos/ssh/](https://openwebinars.net/cursos/ssh/)
 
-**Comentario:** Quizás algo básico, pero no es algo que les venga mal repasar. Incluido en Especialista en Automatización DevOps. Impartido por Alberto Molina.
+**Comentario:** 
 
-**Alumnos Inscritos:** Jaime Barea
+Quizás algo básico, pero no es algo que les venga mal repasar. Incluido en "Especialista en Automatización DevOps". Impartido por Alberto Molina.
+
+
+
+**Alumnos Inscritos:** 
+
+Jaime Barea
+
+Manuel Carrión
+
+Ricardo Herrer
+
+Samuel Luna
 
 
 ## Curso Online de Vagrant 
@@ -202,9 +254,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/vagrant/](https://openwebinars.net/academia/portada/vagrant/)
 
-**Comentario:** Lo da Alberto Molina. Incluido en Especialista en Automatización DevOps
+**Comentario:** 
 
-**Alumnos Inscritos:** Jaime Barea
+Lo da Alberto Molina. Incluido en "Especialista en Automatización DevOps"
+
+
+
+**Alumnos Inscritos:** 
+
+Jaime Barea
 
 
 ## Curso de Vagrant para desarrolladores 
@@ -216,9 +274,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/curso-vagrant-desarrolladores/](https://openwebinars.net/academia/portada/curso-vagrant-desarrolladores/)
 
-**Comentario:** Incluido en Especialista en Automatización DevOps
+**Comentario:** 
 
-**Alumnos Inscritos:** Jaime Barea
+Incluido en "Especialista en Automatización DevOps"
+
+
+
+**Alumnos Inscritos:** 
+
+Jaime Barea
 
 
 ## Curso de Terraform
@@ -230,9 +294,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/terraform/](https://openwebinars.net/academia/portada/terraform/)
 
-**Comentario:** Incluido en Especialista en Automatización DevOps
+**Comentario:** 
 
-**Alumnos Inscritos:** Jaime Barea
+Incluido en "Especialista en Automatización DevOps"
+
+
+
+**Alumnos Inscritos:** 
+
+Jaime Barea
 
 
 ## Curso de Introducción a Amazon Web Services (AWS)
@@ -244,9 +314,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/aws/](https://openwebinars.net/academia/portada/aws/)
 
-**Comentario:** Parece muy interesante. AWS domina completamente el mercado del sector.
+**Comentario:** 
 
-**Alumnos Inscritos:** Ricardo Herrer
+Parece muy interesante. AWS domina completamente el mercado del sector.
+
+
+
+**Alumnos Inscritos:** 
+
+Ricardo Herrer
 
 
 ## Curso de VMware vSphere para principiantes
@@ -258,9 +334,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/vmware-vsphere/](https://openwebinars.net/academia/portada/vmware-vsphere/)
 
-**Comentario:** Se enseña primero el supervisor ESXi y luego ya se pasa al sistema gordo de vSphere. Se le ha dado una cuenta de VMware Academy para que se baje el software necesario para el curso.
+**Comentario:** 
 
-**Alumnos Inscritos:** Ricardo Herrer
+Se enseña primero el supervisor ESXi y luego ya se pasa al sistema gordo de vSphere. Se le ha dado una cuenta de VMware Academy para que se baje el software necesario para el curso.
+
+
+
+**Alumnos Inscritos:** 
+
+Ricardo Herrer
 
 
 ## Curso de Python 3 desde cero
@@ -272,9 +354,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/python-desde-cero/](https://openwebinars.net/academia/portada/python-desde-cero/)
 
-**Comentario:** Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo veo mal aunque sea para ASIR2.
+**Comentario:** 
 
-**Alumnos Inscritos:** Samuel Luna
+Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo veo mal aunque sea para ASIR2.
+
+
+
+**Alumnos Inscritos:** 
+
+Samuel Luna
 
 
 ## Curso de Metasploit Framework
@@ -286,9 +374,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/metasploit/](https://openwebinars.net/academia/portada/metasploit/)
 
-**Comentario:** Metasploit, el framework de los hackers vagos que no quieren pringarse las manos ni estudiar para ser hackers. Ideal para nuestros alumnos.
+**Comentario:** 
 
-**Alumnos Inscritos:** Samuel Luna
+Metasploit, el framework de los hackers vagos que no quieren pringarse las manos ni estudiar para ser hackers. Ideal para nuestros alumnos.
+
+
+
+**Alumnos Inscritos:** 
+
+Samuel Luna
 
 
 ## Curso de Seguridad en Redes con Snort
@@ -300,9 +394,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/seguridad-redes-snort/](https://openwebinars.net/academia/portada/seguridad-redes-snort/)
 
-**Comentario:** SNORT es un sistema de monitorización en red. En el temario de SAD viene, yo no le hago mucho caso. Está bien que lo vean por su cuenta los alumnos.
+**Comentario:** 
 
-**Alumnos Inscritos:** Samuel Luna
+SNORT es un sistema de monitorización en red. En el temario de SAD viene, yo no le hago mucho caso. Está bien que lo vean por su cuenta los alumnos.
+
+
+
+**Alumnos Inscritos:** 
+
+Samuel Luna
 
 
 ## Curso de Hacking Web
@@ -314,9 +414,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/hacking-web/](https://openwebinars.net/academia/portada/hacking-web/)
 
-**Comentario:** Aquí se enseña inyección SQL mayormente, que suele ser el principal agujero por donde entrar. Samuel quería ir a la división informática de la Guardia Civil, así que le vienen bien todos los cursos que ha cogido de seguridad.
+**Comentario:** 
 
-**Alumnos Inscritos:** Samuel Luna
+Aquí se enseña inyección SQL mayormente, que suele ser el principal agujero por donde entrar. Samuel quería ir a la división informática de la Guardia Civil, así que le vienen bien todos los cursos que ha cogido de seguridad.
+
+
+
+**Alumnos Inscritos:** 
+
+Samuel Luna
 
 
 ## Curso de Git
@@ -328,9 +434,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/git/](https://openwebinars.net/academia/portada/git/)
 
-**Comentario:** Fundamental, te dediques a lo que te dediques
+**Comentario:** 
 
-**Alumnos Inscritos:** Juan Luis
+Fundamental, te dediques a lo que te dediques
+
+
+
+**Alumnos Inscritos:** 
+
+Juan Luis
 
 
 ## Curso de Gitflow Profesional
@@ -342,9 +454,15 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/gitflow/](https://openwebinars.net/academia/portada/gitflow/)
 
-**Comentario:** Cuando se pasa a formar parte de un equipo de programación es necesario tener unas pautas en cuanto a ramas, versiones, flujo de trabajo, etc usando un sistema de gestión de versiones como GIT.
+**Comentario:** 
 
-**Alumnos Inscritos:** Juan Luis
+Cuando se pasa a formar parte de un equipo de programación es necesario tener unas pautas en cuanto a ramas, versiones, flujo de trabajo, etc usando un sistema de gestión de versiones como GIT.
+
+
+
+**Alumnos Inscritos:** 
+
+Juan Luis
 
 
 ## Curso de Raspberry Pi para desarrolladores
@@ -356,7 +474,13 @@
 
 **Enlace:** [https://openwebinars.net/academia/portada/raspberry-pi-desarrolladores/](https://openwebinars.net/academia/portada/raspberry-pi-desarrolladores/)
 
-**Comentario:** Muy especializado y dedicado explícitemente al desarrollo. Se precisa conocer tecnologías de desarrollo donde aplicar la Raspberry PI.
+**Comentario:** 
 
-**Alumnos Inscritos:** Juan Luis
+Muy especializado y dedicado explícitemente al desarrollo. Se precisa conocer tecnologías de desarrollo donde aplicar la Raspberry PI.
+
+
+
+**Alumnos Inscritos:** 
+
+Juan Luis
 
