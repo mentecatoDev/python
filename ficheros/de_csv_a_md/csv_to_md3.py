@@ -31,10 +31,10 @@ with open(Path("./Propuesta Actividades 2º FCT - Hoja 1.csv"), newline='') as f
         # Observaciones
         content = '**' + cabecera[6] + ':** '
         file.writelines(content)
-        content = ('\n' + line[6] + '\n\n').replace('\n','\n\n')
+        content = ('\n' + line[6] + '\n\n').replace('\n', '\n\n')
         file.writelines(content)
         # Alumnos inscritos
         content = '**' + cabecera[7] + ':** '
         file.writelines(content)
-        content = ('\n' + line[7] + '\n').replace('\n','\n\n')
+        content = ('\n' + line[7] + '\n').replace('\n', '\n\n')
         file.writelines(content)

@@ -2,13 +2,13 @@
 ## Angular y Spring 5 (udemy)
 **Propone:** Ango
 
-**Temática:** DAW
+**Temática:** Programación
 
 **Horas:** 115
 
 **Enlace:** [https://www.udemy.com/course/angular-spring/](https://www.udemy.com/course/angular-spring/)
 
-**Comentario:** 
+**Observaciones:** 
 
 De pago, lo propone Lucía
 
@@ -28,7 +28,7 @@ Lucía
 
 **Enlace:** [Cisco Netacad](Cisco Netacad)
 
-**Comentario:** 
+**Observaciones:** 
 
 Es básicamente la asignatura mía de SAD pero mucho más teórica, obviamente. A destacar los nombres de algunos capítulos:
 
@@ -58,7 +58,7 @@ Me troncho y me mondo.
 
 **Enlace:** [Cisco Netacad](Cisco Netacad)
 
-**Comentario:** 
+**Observaciones:** 
 
 
 
@@ -78,7 +78,7 @@ Me troncho y me mondo.
 
 **Enlace:** [https://openwebinars.net/cursos/fundamentos-redes-mta/](https://openwebinars.net/cursos/fundamentos-redes-mta/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Es un poco repaso de las redes de 1º, pero viendo lo tiesos que van esta gente en redes, no les viene mal repasarlas a más de uno
 
@@ -100,7 +100,7 @@ Samuel Luna
 
 **Enlace:** [https://openwebinars.net/cursos/iptables/](https://openwebinars.net/cursos/iptables/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Lo mismo con los firewalls que dan en SAD. Pero no les viene nada mal repasar.
 
@@ -120,7 +120,7 @@ Manuel Carrión
 
 **Enlace:** [https://openwebinars.net/cursos/servidores-web/](https://openwebinars.net/cursos/servidores-web/)
 
-**Comentario:** 
+**Observaciones:** 
 
 De nuevo, esto se ve en SRI, pero este curso sí que tiene unas cuantas cosas que yo no doy, como un poquito de Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP)
 
@@ -142,7 +142,7 @@ Pablo G. Campanario
 
 **Enlace:** [https://openwebinars.net/academia/portada/docker-introduccion/](https://openwebinars.net/academia/portada/docker-introduccion/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Estos dos cursos de Docker son parte de una cosa que en OpenWebminars llaman "Carreras", que son lotes de cursos relacionados. Ésta en particular se llama "Docker DevOps Profesional". Jaime me comenta que en Cibernéticos les gustó ver este curso en su CV.
 
@@ -166,7 +166,7 @@ Pablo G. Campanario
 
 **Enlace:** [https://openwebinars.net/academia/portada/docker/](https://openwebinars.net/academia/portada/docker/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Incluido en "Docker DevOps Profesional"
 
@@ -188,7 +188,7 @@ Samuel Luna
 
 **Enlace:** [https://openwebinars.net/academia/portada/fundamentos-generales-orquestacion-automatizacion-it/](https://openwebinars.net/academia/portada/fundamentos-generales-orquestacion-automatizacion-it/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Este curso y los que vienen a continuación son parte de la carrera de "Especialista en Automatización DevOps", que va de temas de Virtualización en Cloud
 
@@ -208,7 +208,7 @@ Jaime Barea
 
 **Enlace:** [https://openwebinars.net/academia/portada/ansible/](https://openwebinars.net/academia/portada/ansible/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Incluido en "Especialista en Automatización DevOps"
 
@@ -228,7 +228,7 @@ Jaime Barea
 
 **Enlace:** [https://openwebinars.net/cursos/ssh/](https://openwebinars.net/cursos/ssh/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Quizás algo básico, pero no es algo que les venga mal repasar. Incluido en "Especialista en Automatización DevOps". Impartido por Alberto Molina.
 
@@ -254,7 +254,7 @@ Samuel Luna
 
 **Enlace:** [https://openwebinars.net/academia/portada/vagrant/](https://openwebinars.net/academia/portada/vagrant/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Lo da Alberto Molina. Incluido en "Especialista en Automatización DevOps"
 
@@ -274,7 +274,7 @@ Jaime Barea
 
 **Enlace:** [https://openwebinars.net/academia/portada/curso-vagrant-desarrolladores/](https://openwebinars.net/academia/portada/curso-vagrant-desarrolladores/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Incluido en "Especialista en Automatización DevOps"
 
@@ -294,7 +294,7 @@ Jaime Barea
 
 **Enlace:** [https://openwebinars.net/academia/portada/terraform/](https://openwebinars.net/academia/portada/terraform/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Incluido en "Especialista en Automatización DevOps"
 
@@ -314,7 +314,7 @@ Jaime Barea
 
 **Enlace:** [https://openwebinars.net/academia/portada/aws/](https://openwebinars.net/academia/portada/aws/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Parece muy interesante. AWS domina completamente el mercado del sector.
 
@@ -334,7 +334,7 @@ Ricardo Herrer
 
 **Enlace:** [https://openwebinars.net/academia/portada/vmware-vsphere/](https://openwebinars.net/academia/portada/vmware-vsphere/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Se enseña primero el supervisor ESXi y luego ya se pasa al sistema gordo de vSphere. Se le ha dado una cuenta de VMware Academy para que se baje el software necesario para el curso.
 
@@ -354,7 +354,7 @@ Ricardo Herrer
 
 **Enlace:** [https://openwebinars.net/academia/portada/python-desde-cero/](https://openwebinars.net/academia/portada/python-desde-cero/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo veo mal aunque sea para ASIR2.
 
@@ -374,7 +374,7 @@ Samuel Luna
 
 **Enlace:** [https://openwebinars.net/academia/portada/metasploit/](https://openwebinars.net/academia/portada/metasploit/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Metasploit, el framework de los hackers vagos que no quieren pringarse las manos ni estudiar para ser hackers. Ideal para nuestros alumnos.
 
@@ -394,7 +394,7 @@ Samuel Luna
 
 **Enlace:** [https://openwebinars.net/academia/portada/seguridad-redes-snort/](https://openwebinars.net/academia/portada/seguridad-redes-snort/)
 
-**Comentario:** 
+**Observaciones:** 
 
 SNORT es un sistema de monitorización en red. En el temario de SAD viene, yo no le hago mucho caso. Está bien que lo vean por su cuenta los alumnos.
 
@@ -414,7 +414,7 @@ Samuel Luna
 
 **Enlace:** [https://openwebinars.net/academia/portada/hacking-web/](https://openwebinars.net/academia/portada/hacking-web/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Aquí se enseña inyección SQL mayormente, que suele ser el principal agujero por donde entrar. Samuel quería ir a la división informática de la Guardia Civil, así que le vienen bien todos los cursos que ha cogido de seguridad.
 
@@ -434,7 +434,7 @@ Samuel Luna
 
 **Enlace:** [https://openwebinars.net/academia/portada/git/](https://openwebinars.net/academia/portada/git/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Fundamental, te dediques a lo que te dediques
 
@@ -454,7 +454,7 @@ Juan Luis
 
 **Enlace:** [https://openwebinars.net/academia/portada/gitflow/](https://openwebinars.net/academia/portada/gitflow/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Cuando se pasa a formar parte de un equipo de programación es necesario tener unas pautas en cuanto a ramas, versiones, flujo de trabajo, etc usando un sistema de gestión de versiones como GIT.
 
@@ -474,7 +474,7 @@ Juan Luis
 
 **Enlace:** [https://openwebinars.net/academia/portada/raspberry-pi-desarrolladores/](https://openwebinars.net/academia/portada/raspberry-pi-desarrolladores/)
 
-**Comentario:** 
+**Observaciones:** 
 
 Muy especializado y dedicado explícitemente al desarrollo. Se precisa conocer tecnologías de desarrollo donde aplicar la Raspberry PI.
 
