@@ -6,3 +6,6 @@ UMDC/.vscode/
 pong/.vscode/settings.json
 pong/Pipfile.lock
 pong/Pipfile
+
+ficheros/de_csv_a_md/docs/hoja01.md
+ficheros/de_csv_a_md/site/
