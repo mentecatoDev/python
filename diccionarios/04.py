@@ -1,19 +1,11 @@
-Ejercicio 4
-
-Añadir código al programa anterior para averiguar quién tiene más mensajes en el fichero. Después de leer todos los datos y esté creado el diccionario buscar a través del diccionario usando un bucle máximo (ver la sección [https://books.trinket.io/pfe/05-iterations.html] maximumloop) para encontrar quién tiene más mensajes y mostrar en pantalla cuántos mensajes tenía esa persona.
-
-Introduzca el nombre del fichero: mbox-short.txt cwen@iupui.edu 10
-
-Introduzca el nombre del fichero: mbox.txt zqian@umich.edu 390
-
-#pylint: disable = i0011, c0103
 """
 Ejercicio 4
 ===========
 Añadir código al programa anterior para averiguar quién tiene más mensajes en
 el fichero.
 Después de leer todos los datos y esté creado el diccionario buscar a través
-del diccionario usando un bucle máximo (ver la sección [https://books.trinket.io/pfe/05-iterations.html] maximumloop) para
+de él, usando un bucle máximo (ver la sección
+[https://books.trinket.io/pfe/05-iterations.html] maximumloop) para
 encontrar quién tiene más mensajes y mostrar en pantalla cuántos mensajes
 tenía esa persona.
 """

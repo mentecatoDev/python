@@ -17,8 +17,8 @@ for line in fhandle:
     if line.startswith("From "):
         day = line.split()[2]
         days_of_the_week[day] = days_of_the_week.get(day, 0) + 1
-day_es = ["Lunes    ", "Martes   ", "Miércoles", "Jueves   "
-          , "Viernes  ", "Sábado   ", "Domingo  "]
+day_es = ["Lunes    ", "Martes   ", "Miércoles", "Jueves   ",
+          "Viernes  ", "Sábado   ", "Domingo  "]
 day_en = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 for day in range(7):
     if day_en[day] in days_of_the_week:
