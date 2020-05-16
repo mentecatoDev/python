@@ -14,25 +14,26 @@ mostraremos solo "stephen.marquard".
 El programa debe mostrar la lista de los usuarios ordenada alfabéticamente,
 sin repetir ninguno y finalizar visualizando el total de líneas encontradas.
 """
-import sys
-
 
 try:
     fhandle = open("mbox-short.txt")
 except IOError:
     print("El fichero no existe.")
-    sys.exit()
+    exit()
 
-users = []
-lines = 0
+users = list()
+
+cont = 0
 for line in fhandle:
-    if line.startswith("From"):
-        user = line.split()[1].split("@")[0]
-        lines += 1
-        if user not in users:
-            users.append(user)
+    if line.startswith("From "):
+        cont += 1
+        candidate = line.split()[1].split('@')[0]
+        if candidate not in users:
+            users.append(candidate)
 users.sort()
 
+
 for user in users:
-    print(user, end=" ")
-print("\nTotal de líneas From encontradas :", lines)
+    print(user)
+print('Número de líneas encontradas:', cont)
+print('Número de usuarios encontrados:', len(users))

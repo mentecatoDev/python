@@ -1,39 +1,54 @@
 Ciclo,Propone,Temática,Título,Horas,Enlace,Observaciones,Alumnos Inscritos
-DAW,Ango,Programación,Angular y Spring 5 (udemy),115,https://www.udemy.com/course/angular-spring/,"De pago, lo propone Lucía",Lucía
-ASIR,Ango,Redes,Cibersecurity Introduction,50,Cisco Netacad,"Es básicamente la asignatura de SAD pero mucho más teórica, obviamente. A destacar los nombres de algunos capítulos:
-Capítulo 1: La ciberseguridad - Un mundo de hechiceros, héroes y criminales.
-Capítulo 6: El universo de los cinco nueves
-Capítulo 7: Protección del reino
-Capítulo 8: Uniéndose al orden de los héroes cibernéticos
-No recomendado.",
-ASIR,Ango,Redes,CCNA 3: Scaling Networks,100,Cisco Netacad,,
+DAW,Ango,Programación,Angular y Spring 5 (udemy),115,https://www.udemy.com/course/angular-spring/,,Lucía Hurtado
+ASIR,Ango,Redes,CCNA 3: Scaling Networks,100,https://www.netacad.com/,,
 ASIR,Luis,Redes,Curso de fundamentos de redes para Certificación MTA,25,https://openwebinars.net/cursos/fundamentos-redes-mta/,"Es un poco repaso de las redes de 1º, pero viendo lo poco que os acordáis de lo que os dio Ango, no os viene mal.","Manuel Carrión
-Samuel Luna"
-ASIR,Luis,Seguridad,Curso de Iptables,25,https://openwebinars.net/cursos/iptables/,Amplia lo que se da en el tema de firewalls de SAD.,Manuel Carrión
+Samuel Luna
+Celia Fernández"
+ASIR,Luis,Seguridad,Curso de Iptables,25,https://openwebinars.net/cursos/iptables/,Amplia lo que se da en el tema de firewalls de SAD.,"Manuel Carrión
+Celia Fernández"
 ASIR,Luis,Servicios de Red,Curso de Servidores Web,60,https://openwebinars.net/cursos/servidores-web/,"Este curso amplia lo que se da en SRI, con contenidos como Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP)","Manuel Carrión
-Pablo G. Campanario"
+Pablo G. Campanario
+Celia Fernández"
 ASIR,Luis,Virtualización,Curso de Introducción a Docker,10,https://openwebinars.net/academia/portada/docker-introduccion/,"Estos dos cursos de Docker son parte de una cosa que en OpenWebminars llaman ""Carreras"", que son lotes de cursos relacionados. Ésta en particular se llama ""Docker DevOps Profesional"". Jaime Barea comenta que en Cibernéticos les gustó ver este curso en su CV.","Jaime Barea
 Samuel Luna
-Pablo G. Campanario"
+Pablo G. Campanario
+Ricardo Herrer
+Celia Fernández
+Alfonso Flores Flores"
 ASIR,Luis,Virtualización,Curso de Docker para Desarrolladores,35,https://openwebinars.net/academia/portada/docker/,"Incluido en ""Docker DevOps Profesional""","Jaime Barea
-Samuel Luna"
+Samuel Luna
+Alfonso Flores Flores"
 ASIR,Luis,Virtualización/Cloud,Fundamentos Generales: Orquestación y Automatizacion IT,5,https://openwebinars.net/academia/portada/fundamentos-generales-orquestacion-automatizacion-it/,"Este curso y los que vienen a continuación son parte de la carrera de ""Especialista en Automatización DevOps"", que va de temas de Virtualización en Cloud",Jaime Barea
 ASIR,Luis,Virtualización/Cloud,Curso de Ansible,40,https://openwebinars.net/academia/portada/ansible/,"Incluido en ""Especialista en Automatización DevOps""",Jaime Barea
 ASIR,Luis,Servicios de Red,SSH: imprescindible en tiempos modernos,15,https://openwebinars.net/cursos/ssh/,"Quizás algo básico, pero no es algo que os venga mal repasar. Incluido en ""Especialista en Automatización DevOps"". Impartido por Alberto Molina.","Jaime Barea
 Manuel Carrión
 Ricardo Herrer
-Samuel Luna"
+Samuel Luna
+Celia Fernández"
 ASIR,Ango,Vagrant,Curso Online de Vagrant ,20,https://openwebinars.net/academia/portada/vagrant/,"Lo da Alberto Molina. Incluido en ""Especialista en Automatización DevOps""",Jaime Barea
 ASIR,Ango,Vagrant,Curso de Vagrant para desarrolladores ,15,https://openwebinars.net/academia/portada/curso-vagrant-desarrolladores/,"Incluido en ""Especialista en Automatización DevOps""",Jaime Barea
 ASIR,Luis,Virtualización/Cloud,Curso de Terraform,20,https://openwebinars.net/academia/portada/terraform/,"Incluido en ""Especialista en Automatización DevOps""",Jaime Barea
 ASIR,Luis,Virtualización/Cloud,Curso de Introducción a Amazon Web Services (AWS),15,https://openwebinars.net/academia/portada/aws/,Parece muy interesante. AWS domina completamente el mercado del sector.,Ricardo Herrer
 ASIR,Luis,Virtualización/Cloud,Curso de VMware vSphere para principiantes,20,https://openwebinars.net/academia/portada/vmware-vsphere/,"Se enseña primero el supervisor ESXi y luego ya se pasa al sistema gordo de vSphere. Los que queráis hacer este curso, podéis acceder a vuestra cuenta de VMware Academy para descargaros el software necesario.",Ricardo Herrer
-ASIR,Luis,Programación-Python,Curso de Python 3 desde cero,30,https://openwebinars.net/academia/portada/python-desde-cero/,"Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo es muy complicado aunque sea para ASIR2.",Samuel Luna
-ASIR,Luis,Seguridad,Curso de Metasploit Framework,20,https://openwebinars.net/academia/portada/metasploit/,"Metasploit, el framework de los hackers vagos que no quieren pringarse las manos ni estudiar para ser hackers. Ideal para vosotros.",Samuel Luna
+ASIR,Luis,Seguridad,Curso de Metasploit Framework,20,https://openwebinars.net/academia/portada/metasploit/,"Metasploit, el framework de los hackers vagos que no quieren pringarse las manos ni estudiar para ser hackers. Ideal para vosotros.","Samuel Luna
+Manuel Carrión"
 ASIR,Luis,Seguridad,Curso de Seguridad en Redes con Snort,15,https://openwebinars.net/academia/portada/seguridad-redes-snort/,"SNORT es un sistema de monitorización en red. Está incluido en el temario de SAD, pero sólo lo vemos de pasada. Está bien que lo veáis por vuestra cuenta.",Samuel Luna
 ASIR,Luis,Seguridad,Curso de Hacking Web,15,https://openwebinars.net/academia/portada/hacking-web/,"Aquí se enseña inyección SQL mayormente, que suele ser el principal agujero por donde entrar a las páginas web dinámicas.",Samuel Luna
-DAW/ASIR,Paco Ávila,Programación,Curso de Git,15,https://openwebinars.net/academia/portada/git/,"Fundamental, te dediques a lo que te dediques",Juan Luis
-DAW/ASIR,Paco Ávila,Programación,Curso de Gitflow Profesional,5,https://openwebinars.net/academia/portada/gitflow/,"Cuando se pasa a formar parte de un equipo de programación es necesario tener unas pautas en cuanto a ramas, versiones, flujo de trabajo, etc usando un sistema de gestión de versiones como GIT.",Juan Luis
-DAW/ASIR,Paco Ávila,Sistemas/Programación,Curso de Raspberry Pi para desarrolladores,20,https://openwebinars.net/academia/portada/raspberry-pi-desarrolladores/,Muy especializado y dedicado explícitemente al desarrollo. Se precisa conocer tecnologías de desarrollo donde aplicar la Raspberry PI.,Juan Luis
+DAW/ASIR,Paco Ávila,Programación,Curso de Git,15,https://openwebinars.net/academia/portada/git/,"Fundamental, te dediques a lo que te dediques","Juan Luis Galisteo
+Celia Fernández"
+DAW/ASIR,Paco Ávila,Programación,Curso de Gitflow Profesional,5,https://openwebinars.net/academia/portada/gitflow/,"Cuando se pasa a formar parte de un equipo de programación es necesario tener unas pautas en cuanto a ramas, versiones, flujo de trabajo, etc usando un sistema de gestión de versiones como GIT.","Juan Luis Galisteo
+Celia Fernández"
+DAW/ASIR,Paco Ávila,Sistemas/Programación,Curso de Raspberry Pi para desarrolladores,20,https://openwebinars.net/academia/portada/raspberry-pi-desarrolladores/,Muy especializado y dedicado explícitemente al desarrollo. Se precisa conocer tecnologías de desarrollo donde aplicar la Raspberry PI.,Juan Luis Galisteo
 DAW,Fernando Vargas,DIW,SASS+GULP+BOOTSTRAP,25,https://openwebinars.net/academia/aprende/sass/7179/,"Este curso viene muy bien para repasar los fundamentos de SASS, además incorpora GULP, y un ejercicio muy interesante para crear un Framework propio desde bootstrap",
 DAW,Fernando Vargas,DIW,Protección jurídica del Software,5,https://openwebinars.net/academia/portada/proteccion-juridica-software/,"A través de este taller conocerás las posibilidades existentes para la protección jurídica de tu software, haciendo especial hincapié en las licencias de software",
+ASIR,Luis,Virtualización/Cloud,Curso de Máquinas Virtuales en Azure,10,https://openwebinars.net/academia/portada/maquinas-virtuales-azure/,"Curso de virtualización en Azure. Es parte de un certificado de Microsoft. A día de hoy no entrega certificado de hacer el curso, así que no es recomendable hacerlo (aunque los contenidos son interesantes).",Ricardo Herrer
+ASIR,Luis,Arduino,Curso de Arduino,20,https://openwebinars.net/academia/portada/arduino/,"Curso de Arduino. Explica temas de sensores, control de luces y motores, almacenamiento de datos, comunicaciones, etc. La única pega es que como no tengas todos los sensores, shields, etc., que se explican no se va a poder probar en la práctica.",Pablo G. Campanario
+ASIR,Luis,Programación-Python,Curso de Python 3 desde cero,30,https://openwebinars.net/academia/portada/python-desde-cero/,"Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo es muy complicado aunque sea para ASIR2.","Samuel Luna
+Pablo G. Campanario"
+ASIR,Paco Ávila,Programación-Python,Curso de Python: Aprende a programar en Python 3,45,https://openwebinars.net/academia/portada/python/,Curso básico para aprender python 3 desde cero,"Juan Luis Galisteo
+Celia Fernández"
+ASIR,Paco Ávila,Sistemas,Servidores Web,50,https://openwebinars.net/academia/portada/servidores-web/,"Aprende Nginx, Apache, instalación del Stack MEAN, LAMP y mucho más","Juan Luis Galisteo
+Celia Fernández"
+ASIR,Luis,Seguridad,Curso de introducción a Ethical Hacking,30,https://openwebinars.net/academia/portada/ethical-hacking-introduccion/,Repaso del módulo de SAD. Toca un poquito cada palo de la seguridad.,Manuel Carrión
+ASIR,Paco Ávila,Programación-Python,Curso de Web scraping: Extracción de datos en la Web,20,https://openwebinars.net/academia/portada/web-scraping/,"Web scraping es una técnica para extraer datos de sitios web y guardarlos en una base de datos, conviértete en un experto en web scraping usando Python y extrae información de forma práctica utilizando Python como lenguaje de programación.",Juan Luis Galisteo
+,,,Curso de Python: Aprende a programar en Python 3,,,,

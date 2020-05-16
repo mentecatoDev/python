@@ -10,43 +10,13 @@
 
 **Observaciones:** 
 
-De pago, lo propone Lucía
+
 
 
 
 **Alumnos Inscritos:** 
 
 Lucía
-
-
-## Cibersecurity Introduction
-**Propone:** Ango
-
-**Temática:** Redes
-
-**Horas:** 50
-
-**Enlace:** [Cisco Netacad](Cisco Netacad)
-
-**Observaciones:** 
-
-Es básicamente la asignatura mía de SAD pero mucho más teórica, obviamente. A destacar los nombres de algunos capítulos:
-
-Capítulo 1: La ciberseguridad - Un mundo de hechiceros, héroes y criminales.
-
-Capítulo 6: El universo de los cinco nueves
-
-Capítulo 7: Protección del reino
-
-Capítulo 8: Uniéndose al orden de los héroes cibernéticos
-
-Me troncho y me mondo.
-
-
-
-**Alumnos Inscritos:** 
-
-
 
 
 ## CCNA 3: Scaling Networks
@@ -80,7 +50,7 @@ Me troncho y me mondo.
 
 **Observaciones:** 
 
-Es un poco repaso de las redes de 1º, pero viendo lo tiesos que van esta gente en redes, no les viene mal repasarlas a más de uno
+Es un poco repaso de las redes de 1º, pero viendo lo poco que os acordáis de lo que os dio Ango, no os viene mal.
 
 
 
@@ -89,6 +59,8 @@ Es un poco repaso de las redes de 1º, pero viendo lo tiesos que van esta gente 
 Manuel Carrión
 
 Samuel Luna
+
+Celia Fernández
 
 
 ## Curso de Iptables
@@ -102,13 +74,15 @@ Samuel Luna
 
 **Observaciones:** 
 
-Lo mismo con los firewalls que dan en SAD. Pero no les viene nada mal repasar.
+Amplia lo que se da en el tema de firewalls de SAD.
 
 
 
 **Alumnos Inscritos:** 
 
 Manuel Carrión
+
+Celia Fernández
 
 
 ## Curso de Servidores Web
@@ -122,7 +96,7 @@ Manuel Carrión
 
 **Observaciones:** 
 
-De nuevo, esto se ve en SRI, pero este curso sí que tiene unas cuantas cosas que yo no doy, como un poquito de Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP)
+Este curso amplia lo que se da en SRI, con contenidos como Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP)
 
 
 
@@ -131,6 +105,8 @@ De nuevo, esto se ve en SRI, pero este curso sí que tiene unas cuantas cosas qu
 Manuel Carrión
 
 Pablo G. Campanario
+
+Celia Fernández
 
 
 ## Curso de Introducción a Docker
@@ -144,7 +120,7 @@ Pablo G. Campanario
 
 **Observaciones:** 
 
-Estos dos cursos de Docker son parte de una cosa que en OpenWebminars llaman "Carreras", que son lotes de cursos relacionados. Ésta en particular se llama "Docker DevOps Profesional". Jaime me comenta que en Cibernéticos les gustó ver este curso en su CV.
+Estos dos cursos de Docker son parte de una cosa que en OpenWebminars llaman "Carreras", que son lotes de cursos relacionados. Ésta en particular se llama "Docker DevOps Profesional". Jaime Barea comenta que en Cibernéticos les gustó ver este curso en su CV.
 
 
 
@@ -155,6 +131,8 @@ Jaime Barea
 Samuel Luna
 
 Pablo G. Campanario
+
+Ricardo Herrer
 
 
 ## Curso de Docker para Desarrolladores
@@ -230,7 +208,7 @@ Jaime Barea
 
 **Observaciones:** 
 
-Quizás algo básico, pero no es algo que les venga mal repasar. Incluido en "Especialista en Automatización DevOps". Impartido por Alberto Molina.
+Quizás algo básico, pero no es algo que os venga mal repasar. Incluido en "Especialista en Automatización DevOps". Impartido por Alberto Molina.
 
 
 
@@ -336,7 +314,7 @@ Ricardo Herrer
 
 **Observaciones:** 
 
-Se enseña primero el supervisor ESXi y luego ya se pasa al sistema gordo de vSphere. Se le ha dado una cuenta de VMware Academy para que se baje el software necesario para el curso.
+Se enseña primero el supervisor ESXi y luego ya se pasa al sistema gordo de vSphere. Los que queráis hacer este curso, podéis acceder a vuestra cuenta de VMware Academy para descargaros el software necesario.
 
 
 
@@ -356,13 +334,15 @@ Ricardo Herrer
 
 **Observaciones:** 
 
-Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo veo mal aunque sea para ASIR2.
+Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo es muy complicado aunque sea para ASIR2.
 
 
 
 **Alumnos Inscritos:** 
 
 Samuel Luna
+
+Pablo G. Campanario
 
 
 ## Curso de Metasploit Framework
@@ -376,7 +356,7 @@ Samuel Luna
 
 **Observaciones:** 
 
-Metasploit, el framework de los hackers vagos que no quieren pringarse las manos ni estudiar para ser hackers. Ideal para nuestros alumnos.
+Metasploit, el framework de los hackers vagos que no quieren pringarse las manos ni estudiar para ser hackers. Ideal para vosotros.
 
 
 
@@ -396,7 +376,7 @@ Samuel Luna
 
 **Observaciones:** 
 
-SNORT es un sistema de monitorización en red. En el temario de SAD viene, yo no le hago mucho caso. Está bien que lo vean por su cuenta los alumnos.
+SNORT es un sistema de monitorización en red. Está incluido en el temario de SAD, pero sólo lo vemos de pasada. Está bien que lo veáis por vuestra cuenta.
 
 
 
@@ -416,7 +396,7 @@ Samuel Luna
 
 **Observaciones:** 
 
-Aquí se enseña inyección SQL mayormente, que suele ser el principal agujero por donde entrar. Samuel quería ir a la división informática de la Guardia Civil, así que le vienen bien todos los cursos que ha cogido de seguridad.
+Aquí se enseña inyección SQL mayormente, que suele ser el principal agujero por donde entrar a las páginas web dinámicas.
 
 
 
@@ -442,7 +422,7 @@ Fundamental, te dediques a lo que te dediques
 
 **Alumnos Inscritos:** 
 
-Juan Luis
+Juan Luis Galisteo
 
 
 ## Curso de Gitflow Profesional
@@ -462,7 +442,7 @@ Cuando se pasa a formar parte de un equipo de programación es necesario tener u
 
 **Alumnos Inscritos:** 
 
-Juan Luis
+Juan Luis Galisteo
 
 
 ## Curso de Raspberry Pi para desarrolladores
@@ -482,5 +462,85 @@ Muy especializado y dedicado explícitemente al desarrollo. Se precisa conocer t
 
 **Alumnos Inscritos:** 
 
-Juan Luis
+Juan Luis Galisteo
+
+
+## SASS+GULP+BOOTSTRAP
+**Propone:** Fernando Vargas
+
+**Temática:** DIW
+
+**Horas:** 25
+
+**Enlace:** [https://openwebinars.net/academia/aprende/sass/7179/](https://openwebinars.net/academia/aprende/sass/7179/)
+
+**Observaciones:** 
+
+Este curso viene muy bien para repasar los fundamentos de SASS, además incorpora GULP, y un ejercicio muy interesante para crear un Framework propio desde bootstrap
+
+
+
+**Alumnos Inscritos:** 
+
+
+
+
+## Protección jurídica del Software
+**Propone:** Fernando Vargas
+
+**Temática:** DIW
+
+**Horas:** 5
+
+**Enlace:** [https://openwebinars.net/academia/portada/proteccion-juridica-software/](https://openwebinars.net/academia/portada/proteccion-juridica-software/)
+
+**Observaciones:** 
+
+A través de este taller conocerás las posibilidades existentes para la protección jurídica de tu software, haciendo especial hincapié en las licencias de software
+
+
+
+**Alumnos Inscritos:** 
+
+
+
+
+## Curso de Máquinas Virtuales en Azure
+**Propone:** Luis
+
+**Temática:** Virtualización/Cloud
+
+**Horas:** 10
+
+**Enlace:** [https://openwebinars.net/academia/portada/maquinas-virtuales-azure/](https://openwebinars.net/academia/portada/maquinas-virtuales-azure/)
+
+**Observaciones:** 
+
+Curso de virtualización en Azure. Es parte de un certificado de Microsoft. A día de hoy no entrega certificado de hacer el curso, así que no es recomendable hacerlo (aunque los contenidos son interesantes).
+
+
+
+**Alumnos Inscritos:** 
+
+Ricardo Herrer
+
+
+## Curso de Arduino
+**Propone:** Luis
+
+**Temática:** Arduino
+
+**Horas:** 20
+
+**Enlace:** [https://openwebinars.net/academia/portada/arduino/](https://openwebinars.net/academia/portada/arduino/)
+
+**Observaciones:** 
+
+Curso de Arduino. Explica temas de sensores, control de luces y motores, almacenamiento de datos, comunicaciones, etc. La única pega es que como no tengas todos los sensores, shields, etc., que se explican no se va a poder probar en la práctica.
+
+
+
+**Alumnos Inscritos:** 
+
+Pablo G. Campanario
 

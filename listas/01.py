@@ -8,21 +8,24 @@ lista de palabras usando la función split. Las palabras no deben estar
 repetidas en la lista. Cuando la lista esté completa, visualizar el resultado
 en orden alfabético.
 """
-import sys
 
 
 try:
     fhandle = open("romeo.txt")
 except IOError:
     print("El fichero no existe.")
-    sys.exit()
+    exit()
 
-words_list = []cd
+words_list = list()
+
+
 for line in fhandle:
-    words_line = line.split()
-    for word in words_line:
+    for word in line.split():
         if word not in words_list:
             words_list.append(word)
 words_list.sort()
+
 for word in words_list:
-    print(word, end=" ")
+    print(word, sep=' ', end=' ')
+
+print()

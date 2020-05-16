@@ -15,17 +15,16 @@ except IOError:
     exit()
 
 text = fhandle.read()
+fhandle.close()
 word_list = text.split()
 dictionary = dict()
 for word in word_list:
     dictionary[word] = dictionary.get(word, 0) + 1
 
-while True:
-    word = input("Introduzca una palabra (* para fin): ")
-    if word == "*":
-        fhandle.close()
-        break
+word = input("Introduzca una palabra (* para fin): ")
+while word != "*":
     if word in dictionary:
         print("La palabra %s SÍ está en el texto" % word)
     else:
         print("La palabra %s NO está en el texto" % word)
+    word = input("Introduzca una palabra (* para fin): ")
