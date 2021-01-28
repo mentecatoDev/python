@@ -6,9 +6,7 @@ Samuel Luna
 Celia Fernández"
 ASIR,Luis,Seguridad,Curso de Iptables,25,https://openwebinars.net/cursos/iptables/,Amplia lo que se da en el tema de firewalls de SAD.,"Manuel Carrión
 Celia Fernández"
-ASIR,Luis,Servicios de Red,Curso de Servidores Web,60,https://openwebinars.net/cursos/servidores-web/,"Este curso amplia lo que se da en SRI, con contenidos como Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP)","Manuel Carrión
-Pablo G. Campanario
-Celia Fernández"
+,,,,,,,
 ASIR,Luis,Virtualización,Curso de Introducción a Docker,10,https://openwebinars.net/academia/portada/docker-introduccion/,"Estos dos cursos de Docker son parte de una cosa que en OpenWebminars llaman ""Carreras"", que son lotes de cursos relacionados. Ésta en particular se llama ""Docker DevOps Profesional"". Jaime Barea comenta que en Cibernéticos les gustó ver este curso en su CV.","Jaime Barea
 Samuel Luna
 Pablo G. Campanario
@@ -19,7 +17,8 @@ ASIR,Luis,Virtualización,Curso de Docker para Desarrolladores,35,https://openwe
 Samuel Luna
 Alfonso Flores Flores"
 ASIR,Luis,Virtualización/Cloud,Fundamentos Generales: Orquestación y Automatizacion IT,5,https://openwebinars.net/academia/portada/fundamentos-generales-orquestacion-automatizacion-it/,"Este curso y los que vienen a continuación son parte de la carrera de ""Especialista en Automatización DevOps"", que va de temas de Virtualización en Cloud",Jaime Barea
-ASIR,Luis,Virtualización/Cloud,Curso de Ansible,40,https://openwebinars.net/academia/portada/ansible/,"Incluido en ""Especialista en Automatización DevOps""",Jaime Barea
+ASIR,Luis,Virtualización/Cloud,Curso de Ansible,40,https://openwebinars.net/academia/portada/ansible/,"Incluido en ""Especialista en Automatización DevOps""","Jaime Barea
+Pablo G. Campanario"
 ASIR,Luis,Servicios de Red,SSH: imprescindible en tiempos modernos,15,https://openwebinars.net/cursos/ssh/,"Quizás algo básico, pero no es algo que os venga mal repasar. Incluido en ""Especialista en Automatización DevOps"". Impartido por Alberto Molina.","Jaime Barea
 Manuel Carrión
 Ricardo Herrer
@@ -47,8 +46,9 @@ ASIR,Luis,Programación-Python,Curso de Python 3 desde cero,30,https://openwebin
 Pablo G. Campanario"
 ASIR,Paco Ávila,Programación-Python,Curso de Python: Aprende a programar en Python 3,45,https://openwebinars.net/academia/portada/python/,Curso básico para aprender python 3 desde cero,"Juan Luis Galisteo
 Celia Fernández"
-ASIR,Paco Ávila,Sistemas,Servidores Web,50,https://openwebinars.net/academia/portada/servidores-web/,"Aprende Nginx, Apache, instalación del Stack MEAN, LAMP y mucho más","Juan Luis Galisteo
+ASIR,Paco Ávila/Luis,Sistemas,Servidores Web,60,https://openwebinars.net/academia/portada/servidores-web/,"Este curso amplia lo que se da en SRI, con contenidos como Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP). Aprende Nginx, Apache, instalación del Stack MEAN, LAMP y mucho más","Manuel Carrión
+Pablo G. Campanario
+Juan Luis Galisteo
 Celia Fernández"
 ASIR,Luis,Seguridad,Curso de introducción a Ethical Hacking,30,https://openwebinars.net/academia/portada/ethical-hacking-introduccion/,Repaso del módulo de SAD. Toca un poquito cada palo de la seguridad.,Manuel Carrión
 ASIR,Paco Ávila,Programación-Python,Curso de Web scraping: Extracción de datos en la Web,20,https://openwebinars.net/academia/portada/web-scraping/,"Web scraping es una técnica para extraer datos de sitios web y guardarlos en una base de datos, conviértete en un experto en web scraping usando Python y extrae información de forma práctica utilizando Python como lenguaje de programación.",Juan Luis Galisteo
-,,,Curso de Python: Aprende a programar en Python 3,,,,

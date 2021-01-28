@@ -16,7 +16,7 @@
 
 **Alumnos Inscritos:** 
 
-Lucía
+Lucía Hurtado
 
 
 ## CCNA 3: Scaling Networks
@@ -26,7 +26,7 @@ Lucía
 
 **Horas:** 100
 
-**Enlace:** [Cisco Netacad](Cisco Netacad)
+**Enlace:** [https://www.netacad.com/](https://www.netacad.com/)
 
 **Observaciones:** 
 
@@ -85,28 +85,24 @@ Manuel Carrión
 Celia Fernández
 
 
-## Curso de Servidores Web
-**Propone:** Luis
+## 
+**Propone:** 
 
-**Temática:** Servicios de Red
+**Temática:** 
 
-**Horas:** 60
+**Horas:** 
 
-**Enlace:** [https://openwebinars.net/cursos/servidores-web/](https://openwebinars.net/cursos/servidores-web/)
+**Enlace:** []()
 
 **Observaciones:** 
 
-Este curso amplia lo que se da en SRI, con contenidos como Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP)
+
 
 
 
 **Alumnos Inscritos:** 
 
-Manuel Carrión
 
-Pablo G. Campanario
-
-Celia Fernández
 
 
 ## Curso de Introducción a Docker
@@ -134,6 +130,10 @@ Pablo G. Campanario
 
 Ricardo Herrer
 
+Celia Fernández
+
+Alfonso Flores Flores
+
 
 ## Curso de Docker para Desarrolladores
 **Propone:** Luis
@@ -155,6 +155,8 @@ Incluido en "Docker DevOps Profesional"
 Jaime Barea
 
 Samuel Luna
+
+Alfonso Flores Flores
 
 
 ## Fundamentos Generales: Orquestación y Automatizacion IT
@@ -196,6 +198,8 @@ Incluido en "Especialista en Automatización DevOps"
 
 Jaime Barea
 
+Pablo G. Campanario
+
 
 ## SSH: imprescindible en tiempos modernos
 **Propone:** Luis
@@ -221,6 +225,8 @@ Manuel Carrión
 Ricardo Herrer
 
 Samuel Luna
+
+Celia Fernández
 
 
 ## Curso Online de Vagrant 
@@ -323,28 +329,6 @@ Se enseña primero el supervisor ESXi y luego ya se pasa al sistema gordo de vSp
 Ricardo Herrer
 
 
-## Curso de Python 3 desde cero
-**Propone:** Luis
-
-**Temática:** Programación-Python
-
-**Horas:** 30
-
-**Enlace:** [https://openwebinars.net/academia/portada/python-desde-cero/](https://openwebinars.net/academia/portada/python-desde-cero/)
-
-**Observaciones:** 
-
-Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo es muy complicado aunque sea para ASIR2.
-
-
-
-**Alumnos Inscritos:** 
-
-Samuel Luna
-
-Pablo G. Campanario
-
-
 ## Curso de Metasploit Framework
 **Propone:** Luis
 
@@ -363,6 +347,8 @@ Metasploit, el framework de los hackers vagos que no quieren pringarse las manos
 **Alumnos Inscritos:** 
 
 Samuel Luna
+
+Manuel Carrión
 
 
 ## Curso de Seguridad en Redes con Snort
@@ -424,6 +410,8 @@ Fundamental, te dediques a lo que te dediques
 
 Juan Luis Galisteo
 
+Celia Fernández
+
 
 ## Curso de Gitflow Profesional
 **Propone:** Paco Ávila
@@ -443,6 +431,8 @@ Cuando se pasa a formar parte de un equipo de programación es necesario tener u
 **Alumnos Inscritos:** 
 
 Juan Luis Galisteo
+
+Celia Fernández
 
 
 ## Curso de Raspberry Pi para desarrolladores
@@ -543,4 +533,114 @@ Curso de Arduino. Explica temas de sensores, control de luces y motores, almacen
 **Alumnos Inscritos:** 
 
 Pablo G. Campanario
+
+
+## Curso de Python 3 desde cero
+**Propone:** Luis
+
+**Temática:** Programación-Python
+
+**Horas:** 30
+
+**Enlace:** [https://openwebinars.net/academia/portada/python-desde-cero/](https://openwebinars.net/academia/portada/python-desde-cero/)
+
+**Observaciones:** 
+
+Es un curso de programación, pero empieza desde cero y llega sólo a tocar un poco POO, así que no lo es muy complicado aunque sea para ASIR2.
+
+
+
+**Alumnos Inscritos:** 
+
+Samuel Luna
+
+Pablo G. Campanario
+
+
+## Curso de Python: Aprende a programar en Python 3
+**Propone:** Paco Ávila
+
+**Temática:** Programación-Python
+
+**Horas:** 45
+
+**Enlace:** [https://openwebinars.net/academia/portada/python/](https://openwebinars.net/academia/portada/python/)
+
+**Observaciones:** 
+
+Curso básico para aprender python 3 desde cero
+
+
+
+**Alumnos Inscritos:** 
+
+Juan Luis Galisteo
+
+Celia Fernández
+
+
+## Servidores Web
+**Propone:** Paco Ávila/Luis
+
+**Temática:** Sistemas
+
+**Horas:** 60
+
+**Enlace:** [https://openwebinars.net/academia/portada/servidores-web/](https://openwebinars.net/academia/portada/servidores-web/)
+
+**Observaciones:** 
+
+Este curso amplia lo que se da en SRI, con contenidos como Vagrant y un stack NodeJS/MongoDB (en lugar del clásico LAMP). Aprende Nginx, Apache, instalación del Stack MEAN, LAMP y mucho más
+
+
+
+**Alumnos Inscritos:** 
+
+Manuel Carrión
+
+Pablo G. Campanario
+
+Juan Luis Galisteo
+
+Celia Fernández
+
+
+## Curso de introducción a Ethical Hacking
+**Propone:** Luis
+
+**Temática:** Seguridad
+
+**Horas:** 30
+
+**Enlace:** [https://openwebinars.net/academia/portada/ethical-hacking-introduccion/](https://openwebinars.net/academia/portada/ethical-hacking-introduccion/)
+
+**Observaciones:** 
+
+Repaso del módulo de SAD. Toca un poquito cada palo de la seguridad.
+
+
+
+**Alumnos Inscritos:** 
+
+Manuel Carrión
+
+
+## Curso de Web scraping: Extracción de datos en la Web
+**Propone:** Paco Ávila
+
+**Temática:** Programación-Python
+
+**Horas:** 20
+
+**Enlace:** [https://openwebinars.net/academia/portada/web-scraping/](https://openwebinars.net/academia/portada/web-scraping/)
+
+**Observaciones:** 
+
+Web scraping es una técnica para extraer datos de sitios web y guardarlos en una base de datos, conviértete en un experto en web scraping usando Python y extrae información de forma práctica utilizando Python como lenguaje de programación.
+
+
+
+**Alumnos Inscritos:** 
+
+Juan Luis Galisteo
 
