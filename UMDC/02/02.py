@@ -6,17 +6,8 @@ teclado dos tiempos expresados en horas, minutos y segundos; las sume y
 muestre el resultado en horas, minutos y segundos por pantalla.
 """
 
+from "01.py" import seg_hms, hms_seg
 
-def hms_seg(h, m, s):
-    return ((h*60)+m)*60+s
-
-
-def seg_hms(s):
-    horas = s//3600
-    s = s % 3600
-    minutos = s//60
-    segundos = s % 60
-    return (horas, minutos, segundos)
 
 
 leyendo = True

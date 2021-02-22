@@ -18,4 +18,5 @@ for amigo in ["Luis", "José Antonio", "Miguel", "Paco", "Jaime"]:
     print("Hola", amigo)
 
 import doctest
+
 doctest.testmod()

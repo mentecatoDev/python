@@ -1,27 +1,65 @@
 """
-Ejercicio 01
+3.1. Escribir funciones que resuelvan los siguientes problemas:
 
-Escribir funciones que resuelvan los siguientes problemas:
+    Dado un número entero n, indicar si es o no par.
+    Dado un número entero n, indicar si es o no primo.
 
-Dado un número entero n, indicar si es o no par.
+
 """
-from math import sqrt
-
 
 def par(n):
-    """Devuelve 0 si es par."""
-    return n % 2 == 0
+    """
+    >>> par(10)
+    True
 
+    >>> par(11)
+    False
 
-"""Dado un número entero n, indicar si es o no primo."""
+    >>> par(1)
+    False
 
+    >>> par(0)
+    True
+
+    >>> par(-10)
+    True
+    """
+    return not(n % 2)
 
 def primo(n):
-    """Devuelve True si n es primo."""
-    primo = True
-    if not(n % 2):
-        for i in (3, sqrt(n)+1, 2):
-            if n % i == 0:
-                primo = False
-                break
-        return primo
+    """
+    >>> primo(10)
+    False
+
+    >>> primo(5)
+    True
+    
+    >>> primo(1)
+    True
+    
+    >>> primo(0)
+    False
+    
+    >>> primo(17)
+    True
+    
+    >>> primo(100)
+    False
+    
+    >>> primo(51)
+    False
+
+    """
+
+    if not n:
+        return False
+    prim = True
+    for i in range(2, int(n**(1//2))):
+        if not(n % i):
+            prim = False
+    return prim
+       
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

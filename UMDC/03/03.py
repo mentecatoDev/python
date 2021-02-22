@@ -24,7 +24,7 @@ while masNotas:
     leyendo = True
     while leyendo:
         respuesta = input("¿Otra nota? (S/N)")
-        if (respuesta in "SNsn") and not(respuesta == ""):
+        if (respuesta in "SNsn") and len(respuesta) == 1:
             leyendo = False
     if respuesta in "Nn":
         masNotas = False

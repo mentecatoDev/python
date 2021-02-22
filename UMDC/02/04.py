@@ -120,3 +120,10 @@ def area_proyeccion(x1, y1, x2, y2, x3, y3):
     (px, py) = proyeccion(x2, y2, dx, dy, x3, y3)
     altura = distancia(x2, y2, px, py)
     return area_triangulo(base, altura)
+
+
+
+print(6 / (area_proyeccion(0, 0, 2, 0, 1 ,2)  - 2))
+
+
+print(6 / (area_vectorial(0, 0, 2, 0, 1 ,2) - 2))

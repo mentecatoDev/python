@@ -16,7 +16,7 @@ a) Devuelva solamente las letras consonantes. Por ejemplo, si recibe
 def consonantes(cad):
     consonante = ""
     for letra in cad:
-        if letra not in "aeiouAEIOU":
+        if letra not in "aeiouAEIOUáéíóúÁÉÍÓÚ":
             consonante += letra
     return consonante
 

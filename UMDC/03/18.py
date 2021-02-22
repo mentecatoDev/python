@@ -5,6 +5,17 @@ Suponiendo que el primer dia del año fue lunes, escribir una función que
 reciba un número con el dia del año(de 1 a 366) y devuelva el dia de la semana
 que le toca. Por ejemplo: si recibe 3 debe devolver miércoles, si recibe 9
 debe devolver martes’.
+
+>>> dia_semana(3)
+'miércoles'
+
+>>> dia_semana(9)
+'martes'
+
+>>> dia_semana(0)
+'domingo'
+
+>>>
 """
 
 
@@ -26,4 +37,6 @@ def dia_semana(dia):
         return "sabado"
 
 
-print(dia_semana(3), dia_semana(9), dia_semana(0))
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()

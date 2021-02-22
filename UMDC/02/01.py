@@ -8,10 +8,19 @@ Escribir dos funciones que permitan calcular:
 >>> hms_seg(10, 32, 14)
 37934
 
+>>> hms_seg(0, 0, 0)
+1
+
 >>> seg_hms(37934)
 (10, 32, 14)
 
+>>> sum(2,3)
+6
+
 """
+
+def sum(a, b):
+    return a + b
 
 
 def hms_seg(h, m, s):
